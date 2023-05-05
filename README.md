@@ -14,6 +14,7 @@ I put challenge.rb inside file lib
 - Ruby (3.2.0)
 - Rspec (6.0.0)
 
+
 1. Clone the repository
 ```bash
 git clone https://github.com/masoud-arabi/challenge.git
@@ -24,13 +25,12 @@ git clone https://github.com/masoud-arabi/challenge.git
 bundle install
 ```
 
-
-4.To run the code
+3.To run the code
 ```bash
 ruby lib/challenge.rb
 ```
 
-5.Run tests
+4.Run tests
 ```bash
 rspec spec/controller_spec.rb
 rspec spec/company_spec.rb
