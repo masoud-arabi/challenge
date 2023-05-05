@@ -1,7 +1,6 @@
 # Challenge
 
-This is a project that consists of 5 companeis and 35 users
-blongs to company base on two json files.
+This is a project that consists of 5 companies and 35 users belongs to a company based on two json files.
 
 Based on the email status of the user the companies decided whether to send an email or not regardless of the company's status based on the criteria of the challenge creater
 
