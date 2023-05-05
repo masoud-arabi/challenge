@@ -4,7 +4,7 @@ This is a project that consists of 5 companies and 35 users belongs to a company
 
 Based on the email status of the user the companies decided whether to send an email or not regardless of the company's status based on the criteria of the challenge creater
 
-I added three test file in spec file to verify input and output of the classes
+I added three test files in the spec file to verify the input and output of the classes
 
 I put challenge.rb inside file lib
 
